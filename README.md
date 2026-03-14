@@ -67,9 +67,9 @@ Passionate about building scalable applications, learning modern technologies, a
 
 ## 📫 Connect With Me
 
-📧 Email: [Imalsharidmani07@gmail.com](mailto:Imalsharidmani07@gmail.com)
-💼 LinkedIn: linkedin.com/in/imalsha-ridmani-699a72217
-💻 GitHub: https://github.com/ImalshaRidmani
+📧 Email: [Imalsharidmani07@gmail.com](mailto:Imalsharidmani07@gmail.com) <br>
+💼 LinkedIn: linkedin.com/in/imalsha-ridmani-699a72217<br>
+💻 GitHub: https://github.com/ImalshaRidmani<br>
 🌐 Portfolio: https://imalsharidmani.github.io/Portfolio/
 
 ---
