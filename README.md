@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 
-💻 Junior Software Engineer | Full-Stack Development Enthusiast </br>
+💻 Junior Software Engineer | Full-Stack Development Enthusiast <br>
 📍 Kadawatha, Sri Lanka
 
 Passionate about building scalable applications, learning modern technologies, and solving real-world problems through software.
