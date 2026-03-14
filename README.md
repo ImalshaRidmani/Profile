@@ -74,8 +74,10 @@ Passionate about building scalable applications, learning modern technologies, a
 
 ---
 
-⭐ Thanks for visiting my profile!
-
 ## 🐍 GitHub Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Thanks for visiting my profile!
