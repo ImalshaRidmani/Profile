@@ -49,14 +49,6 @@ Passionate about building scalable applications, learning modern technologies, a
 
 ---
 
-## 📊 GitHub Stats
-
-![Imalsha GitHub stats](https://github-readme-stats.vercel.app/api?username=ImalshaRidmani&show_icons=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalshaRidmani&layout=compact&cache_seconds=86400)
-
----
-
 ## 🎯 Goals
 
 * Build more **real-world software projects**
