@@ -51,9 +51,9 @@ Passionate about building scalable applications, learning modern technologies, a
 
 ## 📊 GitHub Stats
 
-![Imalsha GitHub stats](https://github-readme-stats.vercel.app/api?username=ImalshaRidmani\&show_icons=true)
+![Imalsha GitHub stats](https://github-readme-stats.vercel.app/api?username=ImalshaRidmani&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalshaRidmani\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImalshaRidmani&layout=compact)
 
 ---
 
